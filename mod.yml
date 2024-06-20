@@ -1,0 +1,113 @@
+title: Classic Mickey
+originalAuthor: SoraTrash
+description: Mickey dons his iconic look! 
+dependencies: 
+assets:
+- name: obj/H_EX610.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX610.mdlx
+- name: obj/P_EX220.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX220.mdlx
+- name: obj/P_EX220_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX220_RTN.mdlx
+- name: obj/P_EX230.mdlx
+  method: copy
+  source:
+  - name: obj/P_EX230.mdlx
+- name: remastered/obj/H_EX610.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX610.mdlx/-0.dds
+- name: remastered/obj/H_EX610.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX610.mdlx/-1.dds
+- name: remastered/obj/H_EX610.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX610.mdlx/-2.dds
+- name: remastered/obj/H_EX610.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX610.mdlx/-3.dds
+- name: remastered/obj/H_EX610.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX610.mdlx/-4.dds
+- name: remastered/obj/P_EX220.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.us/-8.png
+- name: remastered/obj/P_EX220.a.us/-8.xcf
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.a.us/-8.xcf
+- name: remastered/obj/P_EX220.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.mdlx/-0.dds
+- name: remastered/obj/P_EX220.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.mdlx/-1.dds
+- name: remastered/obj/P_EX220.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.mdlx/-2.dds
+- name: remastered/obj/P_EX220.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.mdlx/-3.dds
+- name: remastered/obj/P_EX220.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220.mdlx/-4.dds
+- name: remastered/obj/P_EX220_RTN.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220_RTN.mdlx/-0.dds
+- name: remastered/obj/P_EX220_RTN.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220_RTN.mdlx/-1.dds
+- name: remastered/obj/P_EX220_RTN.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220_RTN.mdlx/-2.dds
+- name: remastered/obj/P_EX220_RTN.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220_RTN.mdlx/-3.dds
+- name: remastered/obj/P_EX220_RTN.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX220_RTN.mdlx/-4.dds
+- name: remastered/obj/P_EX230.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX230.mdlx/-0.dds
+- name: remastered/obj/P_EX230.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX230.mdlx/-1.dds
+- name: remastered/obj/P_EX230.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX230.mdlx/-2.dds
+- name: remastered/obj/P_EX230.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX230.mdlx/-3.dds
+- name: remastered/obj/P_EX230.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX230.mdlx/-4.dds
+- name: remastered/obj/P_EX230.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX230.mdlx/-5.dds
